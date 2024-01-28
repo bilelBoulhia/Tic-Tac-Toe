@@ -1,0 +1,13 @@
+C:\Users\Origin Systems\source\repos\tic tac tow\tic tac tow\bin\Debug\tic tac tow.exe.config
+C:\Users\Origin Systems\source\repos\tic tac tow\tic tac tow\bin\Debug\tic tac tow.exe
+C:\Users\Origin Systems\source\repos\tic tac tow\tic tac tow\bin\Debug\tic tac tow.pdb
+C:\Users\Origin Systems\source\repos\tic tac tow\tic tac tow\bin\Debug\MaterialSkin.dll
+C:\Users\Origin Systems\source\repos\tic tac tow\tic tac tow\obj\Debug\tic tac tow.csproj.AssemblyReference.cache
+C:\Users\Origin Systems\source\repos\tic tac tow\tic tac tow\obj\Debug\tic_tac_tow.Form1.resources
+C:\Users\Origin Systems\source\repos\tic tac tow\tic tac tow\obj\Debug\tic_tac_tow.Properties.Resources.resources
+C:\Users\Origin Systems\source\repos\tic tac tow\tic tac tow\obj\Debug\tic_tac_tow.XOBOARD.resources
+C:\Users\Origin Systems\source\repos\tic tac tow\tic tac tow\obj\Debug\tic tac tow.csproj.GenerateResource.cache
+C:\Users\Origin Systems\source\repos\tic tac tow\tic tac tow\obj\Debug\tic tac tow.csproj.CoreCompileInputs.cache
+C:\Users\Origin Systems\source\repos\tic tac tow\tic tac tow\obj\Debug\tic tac tow.csproj.CopyComplete
+C:\Users\Origin Systems\source\repos\tic tac tow\tic tac tow\obj\Debug\tic tac tow.exe
+C:\Users\Origin Systems\source\repos\tic tac tow\tic tac tow\obj\Debug\tic tac tow.pdb
